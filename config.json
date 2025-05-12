@@ -1,7 +1,7 @@
 {
     "Siti": {
         "StreamingCommunity": {
-            "url": "https://streamingunity.to/it",
+            "url": "https://streamingcommunity.ovh",
             "SC_ForwardProxy": "0",
             "SC_PROXY": "0",
             "VX_ForwardProxy": "0",
@@ -71,14 +71,7 @@
             "AW_ForwardProxy": "0",
             "AW_PROXY": "1"
         },
-        "AnimeUnity": {
-            "url": "https://www.animeunity.so",
-            "SC_ForwardProxy": "0",
-            "SC_PROXY": "0",
-            "VX_ForwardProxy": "0",
-            "VX_PROXY": "0",
-            "enabled": "1",
-        },
+        
         "SkyStreaming": {
             "url": "https://skystreaming.email",
             "enabled": "1"
